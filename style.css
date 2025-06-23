@@ -1,0 +1,105 @@
+body {
+  background: #41442b;
+  backface-visibility: hidden;
+  
+  
+  
+}
+
+.home_content{
+  
+}
+p {
+  color: #ee1010;
+  font-size: 25px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+    
+}
+
+.snake-float{
+  display: flex;
+  flex-direction: row-reverse;
+  float: left;
+  justify-content: space-between;
+}
+img {
+  background-image: url("2iws8qoe1c8b1.jpg");
+  float: right;
+}
+
+.cute_snake{
+  width: 150px;
+}
+
+.snat{
+  height: 250px;
+  width: 250px;
+
+  
+}
+
+.snake_float{
+  float: left;
+  display: flex;
+  flex-flow: row;
+  
+}
+
+.Bound{
+float: left;
+  display: flex;
+  flex-direction: row-reverse;
+  border-style: dotted;
+  
+  
+  
+}
+
+.Kobe{
+float: right;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  border-style: dashed;
+  
+  
+}
+
+
+.deadly{
+width: 250px;  
+  
+  
+}
+.brunt{
+ float: left;
+  display: flex;
+  flex-flow: wrap-reverse;
+  
+}
+.snage{
+ width:350px; 
+  
+}
+
+.snek-angery{
+  border-style: dashed;  
+  border-color:#e68b17;
+}
+
+.snakler{
+  float: right;
+  text-align: left;
+}
+.Hunt_snakes{
+  width:40%;
+  float: right;
+}
+.hunting{
+  background-color: cornflowerblue;
+  
+
+
+}
